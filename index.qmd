@@ -1,11 +1,20 @@
 ---
-title: "Mywebsite"
+title: "Bernard Kwabena Appiah"
+about:
+  template: jolla
+  image: image//IMG_2571.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/bkappiah007
 ---
 
-This is a Quarto website.
+*Graduate Student in Statistics*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of Minnesota Duluth
 
-```{r}
-1 + 1
-```
+## Education
+
+Master of Science in Statistics \| 2025--2027
+
+Bachelor of Science in Mathematics & Statistics \| 2019--2023

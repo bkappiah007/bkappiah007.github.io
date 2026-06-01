@@ -1,22 +1,112 @@
 project:
   type: website
   output-dir: docs
+  
+
+# Meta
+description-meta: "Academic website for Bernard Kwabena Appiah, statistician and data scientist."
+author-meta: "Bernard Kwabena Appiah"
 
 website:
-  title: "Mywebsite"
+  title: ""
+  google-analytics: "G-P4RRCG44LP"
+  image: "files/images/IMG_2571.jpeg"
+  description: "Personal academic site for research, teaching, and projects"
+
   navbar:
+    background: brown
+    
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Bernard K. Appiah
+        href: index.qmd
+      - text: Research
+        menu:
+           - text: Selected Manuscripts
+             href: publications.qmd
+           - text: Academic Projects
+             href: projects.qmd
+          # - text: Events
+          #   href: posts.qmd#category=event
+      # - text: Research
+      #   menu:
+      #     - text: List of Publications
+      #       href: publications.qmd
+      #     - text: Selected Papers
+      #       href: posts.qmd#category=paper
+      - text: Teaching
+        href: teaching.qmd
+      - text: Awards & Honors
+        href: Awards.qmd
+      #- text: Contact
+        #href: contact.qmd
+      # - text: Outreach
+      #   menu:
+      #     - text: Presentations
+      #       href: posts.qmd#category=presentation
+      # - text: Group
+      #   href: people.qmd
+
+    right:
+      - text: CV
+        href: files/CV.pdf
+        target: _blank
+      - icon: github
+        href: https://github.com/bkappiah007
+        target: _blank
+      - icon: file-text
+        # text: Rpubs
+        # href: https://rpubs.com/Emmanuel_Kubuafor
+        # target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Bernard K. Appiah](https://github.com/bkappiah) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org) • Adapted from [Emmanuel Kubuafor](http://EmmanuelKubuafor.github.io)'s template"
+    right:
+      - icon: github
+        href: https://github.com/bkappiah
+        target: _blank
+      - icon: file-text
+        text: Rpubs
+        #href: https://rpubs.com/Emmanuel_Kubuafor
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+
+  repo-url: https://github.com/bkappiah007/bkappiah007.github.io
+
+  open-graph: true
+  twitter-card: true
+
+  site-url: "https://bkappiah007.github.io"
+
+#   google-analytics:
+#     tracking-id: ""  # Add your own ID if needed
+#     anonymize-ip: true
+# 
+# bibliography: references.bib
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
+    page-layout: full
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: 
+      - "files/includes/_academic.qmd"
+      - "analytics.html"
 

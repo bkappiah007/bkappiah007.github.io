@@ -1,1 +1,13 @@
 /* css styles */
+/* Red navbar like Emmanuel's site */
+.navbar {
+  background-color: #8B2020 !important;
+}
+
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+
+.navbar a:hover {
+  color: #f0d0d0 !important;
+}
