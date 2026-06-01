@@ -61,7 +61,7 @@ website:
   page-navigation: true
 
   page-footer:
-    left: "[Bernard K. Appiah](https://github.com/bkappiah) &copy; <script>document.write(new Date().getFullYear())</script>"
+    left: "[Bernard K. Appiah](https://github.com/bkappiah007) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: "Built with [Quarto](https://quarto.org) • Adapted from [Emmanuel Kubuafor](http://EmmanuelKubuafor.github.io)'s template"
     right:
       - icon: github
