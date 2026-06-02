@@ -14,9 +14,10 @@ title-block-banner: false
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Teaching Assistant**\
 [Fall 2025](#) 
+
 [Spring 2026](#)
 
-A foundational course in algebraic reasoning, equations, and functions.
+A two-semester sequence covering limits, derivatives, and applications of differentiation in Calculus I, followed by integration techniques, sequences, series, and applications in Calculus II.
 :::
 :::::
 
@@ -30,9 +31,10 @@ A foundational course in algebraic reasoning, equations, and functions.
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Instructor**\
 [Fall 2025](#) 
+
 [Spring 2026](#)
 
-An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference.
+An undergraduate course covering first and second order ordinary differential equations, systems of differential equations, and series solutions with applications to mathematical modeling using Mathematica and Python.
 :::
 :::::
 
@@ -45,6 +47,8 @@ An undergraduate course covering data collection, exploratory data analysis, pro
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics and Actuarial Science**\
 **Teaching Assistant**\
+[Summer 2023](#)
+
 [Spring 2024](#)
 
 Covers fundamental principles of statistical inference including point estimation, 
@@ -61,9 +65,9 @@ hypothesis testing, confidence intervals, and Bayesian methods.
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics Actuarial Science**\
 **Teaching Assistant**\
-[Summer 2024](#)
+[Spring 2024](#)
 
-Covered study design, categorical data analysis, hypothesis testing and survival analysis.
+An introductory course covering fundamental concepts in biostatistics including study design, descriptive statistics, probability distributions, hypothesis testing, and survival analysis applied to public health and medical research.
 :::
 :::::
 
@@ -76,9 +80,22 @@ Covered study design, categorical data analysis, hypothesis testing and survival
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics**\
 **Teaching Assistant**\
-[Spring 2024](#)
+[Summer 2023](#)
 
-Focused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects.
+An advanced course covering simple and multiple linear regression, model building strategies, variable selection, multicollinearity, residual diagnostics, and remedial measures with applications using real datasets.
 :::
 :::::
+
+## Decision Theory
+
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](files/images/decision.png)
+:::
+::: {.g-col-12 .g-col-md-10}
+**University of Ghana, Department of Statistics**\
+**Teaching Assistant**\
+[Spring 2024](#)
+
+A course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria.
 ---
