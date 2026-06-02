@@ -66,26 +66,22 @@ about:
      # - "title asc"
 ---
 
-
 ## **About**
 
-::: {.about}
-
+::: about
 I am a graduate statistician with experience in Statistical modelling, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
 
 My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
-
 :::
-
-
 
 <!-- ## Experience -->
 
 <!-- -   Teaching Assistant, University of Minnesota Duluth -->
+
 <!-- -   Teaching Assistant, University of Ghana -->
 
 <!-- ## Education -->
 
 <!-- -   M.S. in Statistics, University of Minnesota Duluth (2025-Present) -->
-<!-- -   B.S. in Mathematics & Statistics, University of Ghana (2019-2023) -->
----
+
+## <!-- -   B.S. in Mathematics & Statistics, University of Ghana (2019-2023) -->
