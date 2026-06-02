@@ -8,32 +8,29 @@ title-block-banner: false
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/calculus.jpg)
+![](files/images/calculus.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Teaching Assistant**\
 [Fall 2025](#) [Spring 2026](#)
 
-A foundational course in algebraic reasoning, equations, and functions. Delivered in-person to a diverse student population.
+A foundational course in algebraic reasoning, equations, and functions.
 :::
 :::::
 
-## Diferential Equation
+## Differential Equation
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/Differentialequation.jpg)
+![](files/images/Differentialequation.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Instructor**\
-[Fall 2025](#)\
-[Spring 2026](#)
+[Fall 2025](#) [Spring 2026](#)
 
-An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference using real-world applications.
+An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference.
 :::
 :::::
 
@@ -41,9 +38,8 @@ An undergraduate course covering data collection, exploratory data analysis, pro
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/Inference.jpg)
+![](files/images/Inference.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics and Actuarial Science**\
 **Teaching Assistant**\
@@ -57,15 +53,14 @@ Topics include limits, derivatives, applications, and an introduction to integra
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/close.jpg)
+![](files/images/close.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics Actuarial Science**\
 **Teaching Assistant**\
 [Summer 2024](#)
 
-Covered study design, categorical data anlysis,hypothesis testing and survival analysis.
+Covered study design, categorical data analysis, hypothesis testing and survival analysis.
 :::
 :::::
 
@@ -73,9 +68,8 @@ Covered study design, categorical data anlysis,hypothesis testing and survival a
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/regression.jpg)
+![](files/images/regression.jpg)
 :::
-
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics**\
 **Teaching Assistant**\
@@ -84,5 +78,4 @@ Covered study design, categorical data anlysis,hypothesis testing and survival a
 Focused on theoretical and applied aspects of multiple regression, model diagnostics, and interaction effects.
 :::
 :::::
-
-------------------------------------------------------------------------
+---
