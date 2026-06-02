@@ -16,7 +16,7 @@ about:
       href: mailto:ekubuafor@unm.edu
     - icon: linkedin
       text: LinkedIn
-      href: https: www.linkedin.com/in/bernard-kwabena-appia063
+      href: https://www.linkedin.com/in/bernard-kwabena-appia063
       target: _blank
     # - icon: github
     #   text: GitHub
