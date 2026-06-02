@@ -1,7 +1,7 @@
 ---
 title: "Bernard Kwabena Appiah"
 description-meta: "Academic website for Bernard Kwabena Appiah, specializing in statistical modeling and data science."
-image: "files/images/IMG_2571.jpeg"  # Optional: Add your image
+image: "files/images/myprofile.jpeg"  # Optional: Add your image
 page-navigation: false
 toc: false
 #sidebar: false
@@ -69,7 +69,7 @@ about:
 ## **About**
 
 ::: about
-I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of New Mexico](https://www.unm.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
+I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
 
 My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
 :::
