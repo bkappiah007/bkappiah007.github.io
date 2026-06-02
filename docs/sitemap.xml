@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bkappiah007.github.io/index.html</loc>
-    <lastmod>2026-06-02T01:14:27.922Z</lastmod>
+    <loc>https://bkappiah007.github.io/publications.html</loc>
+    <lastmod>2026-06-02T01:52:04.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bkappiah007.github.io/projects.html</loc>
+    <lastmod>2026-06-02T01:52:05.506Z</lastmod>
   </url>
   <url>
     <loc>https://bkappiah007.github.io/Teaching.html</loc>
@@ -11,5 +15,9 @@
   <url>
     <loc>https://bkappiah007.github.io/Awards.html</loc>
     <lastmod>2026-06-01T21:29:18.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bkappiah007.github.io/index.html</loc>
+    <lastmod>2026-06-02T01:14:27.922Z</lastmod>
   </url>
 </urlset>
