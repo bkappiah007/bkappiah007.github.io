@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "COVID-19 US Interactive Dashboard\n\n\nAn interactive Shiny dashboard visualizing COVID-19 cases, deaths, and vaccination rates across all 50 US states from 2020-2023 with spatial mapping.\n\n\n\n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n\n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n\n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+    "text": "COVID-19 US Interactive Dashboard\n    An interactive Shiny dashboard visualizing COVID-19 cases, deaths, and vaccination rates across all 50 US states from 2020-2023 with spatial mapping.\n  \n\n  \n    \n    A Machine Learning Approach to Identifying Malaria Risk Factors Among Pregnant Women in Ghana\n    Applied Random Forest, Decision Tree, Naïve Bayes, and KNN to identify malaria risk factors among pregnant women using the 2019 Ghana Malaria Indicator Survey."
   },
   {
     "objectID": "projects.html#health-epidemiology",
     "href": "projects.html#health-epidemiology",
     "title": "Projects",
     "section": "",
-    "text": "COVID-19 US Interactive Dashboard\n\n\nAn interactive Shiny dashboard visualizing COVID-19 cases, deaths, and vaccination rates across all 50 US states from 2020-2023 with spatial mapping.\n\n\n\n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n\n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n\n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n\n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n\n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+    "text": "COVID-19 US Interactive Dashboard\n    An interactive Shiny dashboard visualizing COVID-19 cases, deaths, and vaccination rates across all 50 US states from 2020-2023 with spatial mapping.\n  \n\n  \n    \n    A Machine Learning Approach to Identifying Malaria Risk Factors Among Pregnant Women in Ghana\n    Applied Random Forest, Decision Tree, Naïve Bayes, and KNN to identify malaria risk factors among pregnant women using the 2019 Ghana Malaria Indicator Survey."
   },
   {
     "objectID": "projects.html#education-society",
@@ -117,5 +117,12 @@
     "title": "Bernard Kwabena Appiah",
     "section": "",
     "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of New Mexico, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
+  },
+  {
+    "objectID": "projects.html#cat-projects.qmd-eof",
+    "href": "projects.html#cat-projects.qmd-eof",
+    "title": "Projects",
+    "section": "",
+    "text": "title: “Projects” subtitle: “Research Projects” page-layout: full —"
   }
 ]
