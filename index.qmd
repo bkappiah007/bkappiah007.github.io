@@ -1,7 +1,7 @@
 ---
-title: "Bernard Kwabena Appiah"
+title: "Bernard Kwabena Appiah
 description-meta: "Academic website for Bernard Kwabena Appiah, specializing in statistical modeling and data science."
-image: "files/images/myprofile.jpeg"  # Optional: Add your image
+image: "files/images/IMG_2571.jpeg"  # Optional: Add your image
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,14 +13,14 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:bkappiah007@gmail.com
+      href: mailto:ekubuafor@unm.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/bernard-kwabena-appia063
+      href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
       target: _blank
     # - icon: github
     #   text: GitHub
-    #   href: https://github.com/EmmanuelKubuafor
+    #   href: https://github.com/bkappiah007
     - icon: file-text
       text: RPubs
      # href: https://rpubs.com/Emmanuel_Kubuafor
@@ -42,10 +42,10 @@ about:
      # href: https://www.scopus.com
      # target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=Yy-I_XoAAAAJ&hl=en
+      #href: https://scholar.google.com/citations?user=BXzI-m8AAAAJ&hl=en
       target: _blank
-    - text: "{{< ai orcid>}} ORCID"
-      href: https://orcid.org/my-orcid?orcid=0009-0004-9199-4908
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Emmanuel-Kubuafor-2?ev=hdr_xprf
       target: _blank
 
 #listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
@@ -69,19 +69,19 @@ about:
 ## **About**
 
 ::: about
-I am a graduate statistician with experience in Statistical modelling, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
+I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of New Mexico](https://www.unm.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
 
 My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
 :::
 
 <!-- ## Experience -->
 
-<!-- -   Teaching Assistant, University of Minnesota Duluth -->
+<!-- -   Research Assistant, University of New Mexico -->
 
-<!-- -   Teaching Assistant, University of Ghana -->
+<!-- -   Project Assistant, African American Student Services-UNM -->
 
 <!-- ## Education -->
 
-<!-- -   M.S. in Statistics, University of Minnesota Duluth (2025-Present) -->
+<!-- -   M.S. in Statistics, University of New Mexico (2024-Present) -->
 
-## <!-- -   B.S. in Mathematics & Statistics, University of Ghana (2019-2023) -->
+## <!-- -   B.S. in Mathematical Science, University of Ghana (2018-2022) -->

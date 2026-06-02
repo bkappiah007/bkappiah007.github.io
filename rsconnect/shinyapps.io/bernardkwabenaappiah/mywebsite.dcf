@@ -1,0 +1,10 @@
+name: mywebsite
+title:
+username: bernardkwabenaappiah
+account: bernardkwabenaappiah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17455855
+bundleId: 12072849
+url: https://bernardkwabenaappiah.shinyapps.io/mywebsite/
+version: 1
