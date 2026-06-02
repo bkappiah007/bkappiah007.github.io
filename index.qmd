@@ -1,5 +1,5 @@
 ---
-title: "Bernard Kwabena Appiah
+title: "Bernard Kwabena Appiah"
 description-meta: "Academic website for Bernard Kwabena Appiah, specializing in statistical modeling and data science."
 image: "files/images/IMG_2571.jpeg"  # Optional: Add your image
 page-navigation: false
