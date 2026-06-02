@@ -13,10 +13,10 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:ekubuafor@unm.edu
+      href: mailto:appia063@d.umn.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/emmanuel-kubuafor-gstat-93b355263/
+      href: https://www.linkedin.com/in/bernard-kwabena-appia063/
       target: _blank
     # - icon: github
     #   text: GitHub
@@ -42,10 +42,10 @@ about:
      # href: https://www.scopus.com
      # target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      #href: https://scholar.google.com/citations?user=BXzI-m8AAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=Yy-I_XoAAAAJ&hl=en
       target: _blank
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Emmanuel-Kubuafor-2?ev=hdr_xprf
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/my-orcid?orcid=0009-0004-9199-4908
       target: _blank
 
 #listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
