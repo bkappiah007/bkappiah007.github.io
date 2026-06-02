@@ -13,7 +13,8 @@ title-block-banner: false
 ::: {.g-col-12 .g-col-md-10}
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Teaching Assistant**\
-[Fall 2025](#) [Spring 2026](#)
+[Fall 2025](#) 
+[Spring 2026](#)
 
 A foundational course in algebraic reasoning, equations, and functions.
 :::
@@ -28,7 +29,8 @@ A foundational course in algebraic reasoning, equations, and functions.
 ::: {.g-col-12 .g-col-md-10}
 **University of Minnesota Duluth, Department of Mathematics and Statistics**\
 **Instructor**\
-[Fall 2025](#) [Spring 2026](#)
+[Fall 2025](#) 
+[Spring 2026](#)
 
 An undergraduate course covering data collection, exploratory data analysis, probability, and statistical inference.
 :::
