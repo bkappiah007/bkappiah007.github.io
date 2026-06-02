@@ -42,7 +42,7 @@ An undergraduate course covering first and second order ordinary differential eq
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/Inference.jpg)
+![](files/images/inference.png)
 :::
 ::: {.g-col-12 .g-col-md-10}
 **University of Ghana, Department of Statistics and Actuarial Science**\
@@ -63,7 +63,7 @@ hypothesis testing, confidence intervals, and Bayesian methods.
 ![](files/images/close.jpg)
 :::
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Statistics Actuarial Science**\
+**University of Ghana, Department of Statistics and Actuarial Science**\
 **Teaching Assistant**\
 [Spring 2024](#)
 
@@ -75,10 +75,10 @@ An introductory course covering fundamental concepts in biostatistics including 
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/regression.jpg)
+![](files/images/regression.png)
 :::
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Statistics**\
+**University of Ghana, Department of Statistics and Actuarial Science**\
 **Teaching Assistant**\
 [Summer 2023](#)
 
@@ -93,9 +93,12 @@ An advanced course covering simple and multiple linear regression, model buildin
 ![](files/images/decision.png)
 :::
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Statistics**\
+**University of Ghana, Department of Statistics and Actuarial Science**\
 **Teaching Assistant**\
 [Spring 2024](#)
 
 A course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria.
+:::
+:::::
+
 ---

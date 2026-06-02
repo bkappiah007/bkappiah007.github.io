@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n\n\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n \n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n \n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n \n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n \n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n \n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+  },
+  {
+    "objectID": "projects.html#health-epidemiology",
+    "href": "projects.html#health-epidemiology",
+    "title": "Projects",
+    "section": "",
+    "text": "Spatiotemporal Patterns of Outbreak-Related Illnesses\n\n\nAnalyzed 50 years of U.S. outbreak data using Shiny dashboards and spatial statistics.\n\n\n \n\nBayesian Beta-Carotene Supplementation Study\n\n\nAnalyzed nutrient interactions using a Bayesian mixed model framework.\n\n\n \n\nDietary Sulfamerazine Study on Brown Trout \n\n\nModeling dose–response effects of dietary sulfamerazine on red blood Cell Counts in brown trout.\n\n\n \n\nForecasting Lung Cancer Mortality\n\n\nCompared time series models (SES, HDES, ARIMA) for lung cancer prediction in the U.S.\n\n\n \n\nSerum Prostate-Specific Antigen (PSA) Determinants in Prostate Study\n\n\nA regression-based clinical assessment on serum Prostate-Specific Antigen (PSA) determinants in prostate cancer.\n\n\n \n\nMalaria Trend Analysis in Comoros\n\n\nModeling seasonal spikes in malaria using ARIMA modeling to inform timely response."
+  },
+  {
+    "objectID": "projects.html#education-society",
+    "href": "projects.html#education-society",
+    "title": "Projects",
+    "section": "Education & Society",
+    "text": "Education & Society\n\n \n\nGlobal Student-Teacher Ratio Modeling\n\n\nMixed-effects framework to study education-level class size disparities worldwide."
+  },
+  {
+    "objectID": "projects.html#environmental-modeling",
+    "href": "projects.html#environmental-modeling",
+    "title": "Projects",
+    "section": "Environmental Modeling",
+    "text": "Environmental Modeling\n\n \n\nOzone Concentration in Bernalillo, NM\n\n\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
+  },
+  {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
     "title": "Teaching",
@@ -32,28 +60,21 @@
     "href": "Teaching.html#introduction-to-biostatistics",
     "title": "Teaching",
     "section": "Introduction to Biostatistics",
-    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Statistics Actuarial Science\nTeaching Assistant\nSpring 2024\nAn introductory course covering fundamental concepts in biostatistics including study design, descriptive statistics, probability distributions, hypothesis testing, and survival analysis applied to public health and medical research."
+    "text": "Introduction to Biostatistics\n\n\n\n\n\nUniversity of Ghana, Department of Statistics and Actuarial Science\nTeaching Assistant\nSpring 2024\nAn introductory course covering fundamental concepts in biostatistics including study design, descriptive statistics, probability distributions, hypothesis testing, and survival analysis applied to public health and medical research."
   },
   {
     "objectID": "Teaching.html#advanced-linear-regression",
     "href": "Teaching.html#advanced-linear-regression",
     "title": "Teaching",
     "section": "Advanced Linear Regression",
-    "text": "Advanced Linear Regression\n\n\n\n\n\nUniversity of Ghana, Department of Statistics\nTeaching Assistant\nSummer 2023\nAn advanced course covering simple and multiple linear regression, model building strategies, variable selection, multicollinearity, residual diagnostics, and remedial measures with applications using real datasets."
+    "text": "Advanced Linear Regression\n\n\n\n\n\nUniversity of Ghana, Department of Statistics and Actuarial Science\nTeaching Assistant\nSummer 2023\nAn advanced course covering simple and multiple linear regression, model building strategies, variable selection, multicollinearity, residual diagnostics, and remedial measures with applications using real datasets."
   },
   {
     "objectID": "Teaching.html#decision-theory",
     "href": "Teaching.html#decision-theory",
     "title": "Teaching",
     "section": "Decision Theory",
-    "text": "Decision Theory\n\n\n\n\n\nUniversity of Ghana, Department of Statistics\nTeaching Assistant\nSpring 2024\n\nA course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria."
-  },
-  {
-    "objectID": "Teaching.html#a-course-exploring-the-mathematical-foundations-of-decision-making-under-uncertainty-covering-game-theory-risk-analysis-and-statistical-decision-rules-including-bayes-and-minimax-criteria.",
-    "href": "Teaching.html#a-course-exploring-the-mathematical-foundations-of-decision-making-under-uncertainty-covering-game-theory-risk-analysis-and-statistical-decision-rules-including-bayes-and-minimax-criteria.",
-    "title": "Teaching",
-    "section": "A course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria.",
-    "text": "A course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria."
+    "text": "Decision Theory\n\n\n\n\n\nUniversity of Ghana, Department of Statistics and Actuarial Science\nTeaching Assistant\nSpring 2024\nA course exploring the mathematical foundations of decision making under uncertainty, covering game theory, risk analysis, and statistical decision rules including Bayes and minimax criteria."
   },
   {
     "objectID": "Awards.html",
