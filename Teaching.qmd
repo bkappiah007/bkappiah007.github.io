@@ -110,7 +110,7 @@ Covered study design, categorical data anlysis,hypothesis testing and survival a
 :::
 
 ::: {.g-col-12 .g-col-md-10}
-**University of Ghana, Department of Statistics and Actuarial Science**  
+**University of Ghana, Department of Statistics**  
 **Teaching Assistant**  
 [Spring 2024](#)
 
