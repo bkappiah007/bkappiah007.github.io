@@ -1,20 +1,91 @@
 ---
 title: "Bernard Kwabena Appiah"
+description-meta: "Academic website for Bernard Kwabena Appiah, specializing in statistical modeling and data science."
+image: "files/images/IMG_2571.jpeg"  # Optional: Add your image
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
 about:
-  template: jolla
-  image: image//IMG_2571.jpeg
+  id: hero-heading
+  template: trestles
+  image-width: 70%
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/bkappiah007
+    - icon: envelope
+      text: E-mail
+      href: mailto:ekubuafor@unm.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https: www.linkedin.com/in/bernard-kwabena-appia063
+      target: _blank
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/EmmanuelKubuafor
+    - icon: file-text
+      text: RPubs
+     # href: https://rpubs.com/Emmanuel_Kubuafor
+     #- icon: sun
+     # text: Lab
+     # href: https://www.github.com
+     # target: _blank
+    #- icon: globe
+     # text: Uprofile
+     # href: https://baruch.cuny.edu
+      #target: _blank
+    #- text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      ##href: https://orcid.org
+      #target: _blank
+    #- text: "{{< ai clarivate >}} Web of Science"
+     # href: https://www.webofscience.com  
+      #target: _blank
+   # - text: "{{< ai scopus >}} Scopus"
+     # href: https://www.scopus.com
+     # target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Yy-I_XoAAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai orcid>}} ORCID"
+      href: https://orcid.org/my-orcid?orcid=0009-0004-9199-4908
+      target: _blank
+
+#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+ # - id: recent-posts
+   # contents: 
+     ## - posts
+     # - posts/post-links.yml
+   # exclude:
+    #  title: ""
+   # type: grid
+    #max-items: 3
+#    image-height: 150px
+   # page-size: 3 #set same as max-times to remove the page number setting
+    #fields: [image, date, title, subtitle]
+    #max-description-length: 75
+    #sort: 
+    #  - "date desc"
+     # - "title asc"
 ---
 
-*Graduate Student in Statistics*
 
-University of Minnesota Duluth
+## **About**
 
-## Education
+::: {.about}
 
-Master of Science in Statistics \| 2025--2027
+I am a graduate statistician with experience in Statistical modelling, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), and I hold a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
 
-Bachelor of Science in Mathematics & Statistics \| 2019--2023
+My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
+
+:::
+
+
+
+<!-- ## Experience -->
+
+<!-- -   Teaching Assistant, University of Minnesota Duluth -->
+<!-- -   Teaching Assistant, University of Ghana -->
+
+<!-- ## Education -->
+
+<!-- -   M.S. in Statistics, University of Minnesota Duluth (2025-Present) -->
+<!-- -   B.S. in Mathematics & Statistics, University of Ghana (2019-2023) -->
+---
