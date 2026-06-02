@@ -34,7 +34,7 @@ website:
       #     - text: Selected Papers
       #       href: posts.qmd#category=paper
       - text: Teaching
-        href: teaching.qmd
+        href: Teaching.qmd
       - text: Awards & Honors
         href: Awards.qmd
       #- text: Contact

@@ -1,3 +1,33 @@
 ---
-title: "Awards"
+title: "Awards & Honors"
+subtitle: "Recognitions, Scholarships, and Distinctions"
+page-layout: full
+title-block-banner: false
+css: custom.css
+---
+
+{{< include /files/includes/_academic.qmd >}}
+
+## 2026
+- **Summer Research Funding (GAGE)** - *University of Minnesota Duluth*
+Awarded competitive summer research funding through the Graduate Assistantship in Graduate Education (GAGE) program to support thesis research in statistics at the University of Minnesota Duluth.
+
+
+- **Fostering Diversity in Biostatistics Workshop Grant** - *University of Minnesota Duluth*
+  Received a competitive diversity grant to attend the Fostering Diversity in Biostatistics Workshop at the ENAR Conference, supporting underrepresented scholars in biostatistics and statistical sciences.
+
+
+
+
+## 2023
+- **First Place — Mathematics Society Quiz Competition** - *University of Ghana*
+  Awarded first place in the annual Mathematics Society Quiz Competition at the University of Ghana, demonstrating excellence in mathematical reasoning and problem-solving.
+  
+- **First Place — Statistics and Actuarial Science Quiz Competition** - *University of Ghana*
+ Awarded first place in the Statistics and Actuarial Science Quiz Competition, demonstrating outstanding knowledge in statistical theory and actuarial methods. 
+
+
+## 2022
+-  **Honor of Excellence and Dedication** — *University of Ghana Actuarial and Statistics Society*  
+  Recognized for two years of transformative leadership as Academic Committee member.
 ---

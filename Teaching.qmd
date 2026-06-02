@@ -47,7 +47,8 @@ An undergraduate course covering data collection, exploratory data analysis, pro
 **Teaching Assistant**\
 [Spring 2024](#)
 
-Topics include limits, derivatives, applications, and an introduction to integrals.
+Covers fundamental principles of statistical inference including point estimation, 
+hypothesis testing, confidence intervals, and Bayesian methods.
 :::
 :::::
 
