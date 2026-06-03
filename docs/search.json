@@ -14,20 +14,6 @@
     "text": "COVID-19 US Interactive Dashboard\n    An interactive Shiny dashboard visualizing COVID-19 cases, deaths, and vaccination rates across all 50 US states from 2020-2023 with spatial mapping.\n  \n\n  \n    \n    A Machine Learning Approach to Identifying Malaria Risk Factors Among Pregnant Women in Ghana\n    Applied Random Forest, Decision Tree, Naïve Bayes, and KNN to identify malaria risk factors among pregnant women using the 2019 Ghana Malaria Indicator Survey."
   },
   {
-    "objectID": "projects.html#education-society",
-    "href": "projects.html#education-society",
-    "title": "Projects",
-    "section": "Education & Society",
-    "text": "Education & Society\n\n\n\nGlobal Student-Teacher Ratio Modeling\n\n\nMixed-effects framework to study education-level class size disparities worldwide."
-  },
-  {
-    "objectID": "projects.html#environmental-modeling",
-    "href": "projects.html#environmental-modeling",
-    "title": "Projects",
-    "section": "Environmental Modeling",
-    "text": "Environmental Modeling\n\n\n\nOzone Concentration in Bernalillo, NM\n\n\nRegression analysis of meteorological and seasonal ozone drivers in New Mexico."
-  },
-  {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
     "title": "Teaching",
@@ -117,12 +103,5 @@
     "title": "Bernard Kwabena Appiah",
     "section": "",
     "text": "I am a graduate statistician with experience in spatial analysis, survival models, and systematic reviews. I am currently pursuing an M.S. in Statistics at the University of Minnesota Duluth, and I hold a B.Sc. in Mathematical Science from the University of Ghana.\nMy work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving."
-  },
-  {
-    "objectID": "projects.html#cat-projects.qmd-eof",
-    "href": "projects.html#cat-projects.qmd-eof",
-    "title": "Projects",
-    "section": "",
-    "text": "title: “Projects” subtitle: “Research Projects” page-layout: full —"
   }
 ]

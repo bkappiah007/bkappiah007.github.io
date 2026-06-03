@@ -45,7 +45,7 @@ about:
       href: https://scholar.google.com/citations?user=Yy-I_XoAAAAJ&hl=en
       target: _blank
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/my-orcid?orcid=0009-0004-9199-4908
+      href: https://orcid.org/0009-0004-9199-4908
       target: _blank
 
 #listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
