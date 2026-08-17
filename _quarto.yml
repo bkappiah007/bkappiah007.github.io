@@ -14,8 +14,9 @@ website:
   description: "Personal academic site for research, teaching, and projects"
 
   navbar:
-    background: brown
-    
+    background: "#4B2E83"
+    foreground: "#FFFFFF"
+    pinned: true
     left:
       - text: Bernard K. Appiah
         href: index.qmd
