@@ -17,7 +17,7 @@ website:
     background: "#4B2E83"
     foreground: "#FFFFFF"
     pinned: true
-    logo: "files/images/UMD logo.png"
+    logo: files/images/UMD logo.png
     logo-alt: "University of Minnesota-Duluth"
     left:
       - text: Bernard K. Appiah
