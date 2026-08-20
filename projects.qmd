@@ -20,6 +20,14 @@ page-layout: full
     <div class="card-title"><strong>A Machine Learning Approach to Identifying Malaria Risk Factors Among Pregnant Women in Ghana</strong></div>
     <div class="card-description">Applied Random Forest, Decision Tree, Naïve Bayes, and KNN to identify malaria risk factors among pregnant women using the 2019 Ghana Malaria Indicator Survey.</div>
   </a>
+  
+  <a class="quarto-grid-item" href="https://drive.google.com/file/d/1WXIJFU3B3Zz0t1I634XLa-p5K_x0bntP/view?usp=sharing">
+    <img src="files/images/life expectancy.jpg" alt="Malaria study"/>
+    <div class="card-title"><strong>Modeling Life Expectancy in Africa Using Socioeconomic and Health Indicators</strong></div>
+    <div class="card-description">Applied multiple linear regression with BIC-guided backward elimination to model life expectancy across 54 African countries, identifying adult mortality, HIV incidence, GDP per capita, and schooling as key predictors (Adjusted R² = 0.98).</div>
+  </a>
+  
+  
 
 </div>
 ```
