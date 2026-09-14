@@ -12,8 +12,24 @@
 - title: "A Machine Learning Approach to Identifying Malaria Risk Factors Among Pregnant Women in Ghana"
   description: "Applied Random Forest, Decision Tree, Naïve Bayes, and KNN to identify malaria risk factors among pregnant women using the 2019 Ghana Malaria Indicator Survey."
   date: 2023
-  href: https://drive.google.com/file/d/1_3EiRlqySR-n6PC2iZKVw-DzMXdZ79N2/view?usp=sharing
+  href: https://drive.google.com/file/d/1JjO9QHonYRRcVyCpQR2J7En6qp3Te38E/view?usp=sharing
   image: files/images/Malaria.png
   listing:
     type: default
+    
+- title: "Modeling Life Expectancy in Africa Using Socioeconomic and Health Indicators"
+  description: "Applied multiple linear regression with BIC-guided backward elimination to model life expectancy across 54 African countries, identifying adult mortality, HIV incidence, GDP per capita, and schooling as key predictors (Adjusted R² = 0.98)"
+  date: 2025
+  href: https://drive.google.com/file/d/1WXIJFU3B3Zz0t1I634XLa-p5K_x0bntP/view?usp=sharing
+  image: files/images/life expectancy.jpg
+  listing:
+    type: default
 
+- title: "Comparative Statistical and Machine Learning Approaches for Predicting Life Expectancy in African
+Countries"
+  description: "This paper compares seven statistical and machine learning approaches for predicting life expectancy across 54 African countries, using 832 country-year observations and 20 demographic, socioeconomic, and health indicators from the WHO Life Expectancy dataset (2000 to 2015). Multiple Linear Regression, Stepwise Regression, Ridge, LASSO, Elastic Net, Random Forest, and Gradient Boosting Machine were evaluated using RMSE, MAE, and R² under repeated 10-fold cross-validation, with bootstrap validation used to assess stability. Ensemble methods clearly outperformed the regression approaches, with Random Forest achieving the lowest test error (RMSE = 1.95, R² = 0.94). Variable importance analysis converged across all three modelling frameworks on HIV/AIDS prevalence, Income Composition of Resources, and Adult Mortality as the leading determinants of life expectancy."
+  date: 2025
+  href: https://drive.google.com/file/d/1WXIJFU3B3Zz0t1I634XLa-p5K_x0bntP/view?usp=sharing
+  image: files/images/life expectancy.jpg
+  listing:
+    type: default
