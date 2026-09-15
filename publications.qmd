@@ -1,0 +1,19 @@
+---
+title: "Manuscripts Under Review"
+description-meta: "Manuscripts under peer review by Emmanuel Bernard Kwabena Appiah and collaborators"
+title-block-banner: false
+css: custom.css
+---
+
+<!-- Academic Icons -->
+{{< include /files/includes/_academic.qmd >}}
+
+
+
+- **Appiah, B. K.**, Incoom-Koomson, K., Brobbey, S., Kallah-Dagadu, G., (2025). *Application of Machine Learning Models to Identify the Risk Factors of the Incidence of Malaria Among Pregnant Women in Ghana.*  
+  [Manuscript](https://drive.google.com/file/d/1pXbxqkg4mojqh50rPJtc_kWqPJZVOUQi/view?usp=sharing){.colored-link}
+
+
+
+---
+

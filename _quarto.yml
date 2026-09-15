@@ -65,7 +65,7 @@ website:
 
   page-footer:
     left: "[Bernard K. Appiah](https://github.com/bkappiah007) &copy; <script>document.write(new Date().getFullYear())</script>"
-    center: "Built with [Quarto](https://quarto.org) • Adapted from [Emmanuel Kubuafor](http://EmmanuelKubuafor.github.io)'s template"
+    center: 'Last updated <script>document.write(new Date(document.lastModified).toLocaleDateString("en-US", {year:"numeric", month:"long", day:"numeric"}))</script>'
     right:
       - icon: github
         href: https://github.com/bkappiah

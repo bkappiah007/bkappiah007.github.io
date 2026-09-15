@@ -1,5 +1,5 @@
 ---
-title: "Bernard Kwabena Appiah"
+title: "Bernard Kwabena Appiah, M.S"
 description-meta: "Academic website for Bernard Kwabena Appiah, specializing in statistical modeling and data science."
 image: "files/images/IMG_2571.jpeg"  # Optional: Add your image
 page-navigation: false
@@ -9,7 +9,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 50%
   links:
     - icon: envelope
       text: E-mail
@@ -21,9 +21,9 @@ about:
     # - icon: github
     #   text: GitHub
     #   href: https://github.com/bkappiah007
-    - icon: file-text
-      text: RPubs
-     # href: https://rpubs.com/Emmanuel_Kubuafor
+    #- icon: file-text
+    - text: "{{< fa brands r-project >}} RPubs"
+      href: https://rpubs.com/Bernard07
      #- icon: sun
      # text: Lab
      # href: https://www.github.com
@@ -66,6 +66,8 @@ about:
      # - "title asc"
 ---
 
+:::{#hero-heading}
+
 ## **About**
 
 ::: about
@@ -73,6 +75,21 @@ I am a graduate statistician with experience in spatial analysis, survival model
 
 My work focuses on applying statistical methods to public health challenges, with interests in applied methodology, population health, and data-informed policy. I value clear communication, rigorous analysis, and collaborative problem-solving.
 :::
+
+## Education
+
+```{=html}
+  <div class="edu-item">
+    <div class="edu-degree">M.S. in Statistics</div>
+    <div class="edu-school">University of Minnesota Duluth· <span class="edu-year">August 2025 — Present</span></div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-degree">B.Sc. in Mathematics & Statistics</div>
+    <div class="edu-school">University of Ghana · 
+<span class="edu-year">Sep 2019 — Sep 2023</span></div>
+  </div>
+</div>
+```
 
 <!-- ## Experience -->
 
