@@ -1,89 +1,297 @@
-/* css styles */
+/* =========================================================
+   University of Washington brand theme (light / default)
+   Husky Purple #4B2E83  |  Husky Gold #B7A57A  |  Metallic Gold #85754D
+   ========================================================= */
+
+:root {
+  --uw-purple: #4B2E83;
+  --uw-purple-light: #6a4ba8;
+  --uw-gold: #B7A57A;
+  --uw-metallic-gold: #85754D;
+  --uw-ink: #2b2b2b;
+
+  /* Override Bootstrap/cosmo body text so prose is dark, not faded gray */
+  --bs-body-color: #2b2b2b;
+  --bs-body-color-rgb: 43, 43, 43;
+  --bs-emphasis-color: #1a1a1a;
+  --bs-secondary-color: rgba(43, 43, 43, 0.85);
+}
+
+body { color: var(--uw-ink); font-size: 1.02rem; line-height: 1.6; }
+
+/* Force readable dark text on all prose (cosmo dims it by default) */
+body,
+p, li, span, td, th, dd, dt,
+.about-entity, .about-entity p,
+.quarto-about-trestles .about-entity,
+.about-contents, .about-contents p,
+figcaption, .figure-caption,
+.lead, blockquote {
+  color: var(--uw-ink);
+}
+.text-muted, .navbar-text { color: #5a5566 !important; }
+
+/* Links keep brand color (override the rule above) */
+a { color: var(--uw-purple); text-decoration: none; }
+a:hover, a:focus { color: var(--uw-metallic-gold); text-decoration: underline; }
+
+h1, h4 { color: var(--uw-purple); font-weight: 700; }
+h1 { letter-spacing: -0.01em; }
+h2, h3 {
+  color: var(--uw-purple);
+  font-weight: 700;
+  border-bottom: 2px solid var(--uw-gold);
+  padding-bottom: 0.3rem;
+  margin-top: 1.8em;
+}
+
+.navbar { box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); }
+.navbar .navbar-brand { font-weight: 700; letter-spacing: 0.01em; }
+.navbar .nav-link:hover, .navbar .nav-link:focus { color: var(--uw-gold) !important; }
+.navbar .dropdown-menu { border-top: 3px solid var(--uw-gold); }
+.navbar .dropdown-item:hover { background-color: rgba(75, 46, 131, 0.08); color: var(--uw-purple); }
+.navbar-brand img,
+.navbar .navbar-logo {
+  max-height: 40px;
+  width: auto;
+}
+
+/* Clean circular photo, left-aligned, no ring */
+.about-image img,
+.about-entity img,
+#hero-heading img,
+.quarto-about-trestles .about-image img {
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1 !important;
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
+  border: none !important;
+}
+
+/* Social buttons: solid, readable */
+.about-link {
+  color: var(--uw-purple) !important;
+  border: 1px solid var(--uw-purple);
+  border-radius: 6px;
+  transition: all 0.15s ease-in-out;
+}
+.about-link:hover { background-color: var(--uw-purple); color: #fff !important; }
+
+.btn-primary { background-color: var(--uw-purple); border-color: var(--uw-purple); }
+.btn-primary:hover, .btn-primary:focus { background-color: var(--uw-metallic-gold); border-color: var(--uw-metallic-gold); }
+
+blockquote { border-left: 4px solid var(--uw-gold); padding-left: 1rem; }
+
+code { color: var(--uw-metallic-gold); }
+div.sourceCode { border-left: 3px solid var(--uw-gold); border-radius: 4px; }
+
+.nav-footer { border-top: 3px solid var(--uw-gold); }
+.nav-footer a { color: var(--uw-purple); }
+
+/* =========================================================
+   YOUR ORIGINAL STYLES (preserved; accent colors moved to UW palette)
+   ========================================================= */
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(280px, 1fr));
   gap: 2rem;
   padding: 1rem 0;
 }
-
 .quarto-grid-item {
-  display: flex;
-  flex-direction: column;
-  text-decoration: none;
-  color: inherit;
-  background: #fff;
-  border-radius: 20px;
-  overflow: hidden;
+  display: flex; flex-direction: column;
+  text-decoration: none; color: inherit;
+  background: #fff; border-radius: 20px; overflow: hidden;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
-.quarto-grid-item:hover {
-  transform: scale(1.03);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-}
-
-.quarto-grid-item img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-bottom: 1px solid #eee;
-}
-
+.quarto-grid-item:hover { transform: scale(1.03); box-shadow: 0 8px 24px rgba(75, 46, 131, 0.18); }
+.quarto-grid-item img { width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid #eee; }
 .card-title {
-  font-weight: 700;
-  font-size: 1.1rem;
-  padding: 0.75rem 1rem 0 1rem;
-  text-align: center;
+  font-weight: 700; font-size: 1.1rem;
+  padding: 0.75rem 1rem 0 1rem; text-align: center; color: var(--uw-purple);
+}
+.card-description { font-size: 0.95rem; padding: 0.5rem 1rem 1rem 1rem; text-align: center; }
+
+#TOC, .toc, .tocify { color: var(--uw-purple); }
+#TOC a, .toc a, .tocify a { color: var(--uw-purple); }
+#TOC a.active, .tocify .tocify-focus {
+  color: var(--uw-purple) !important; font-weight: bold; border-left: 2px solid var(--uw-purple);
 }
 
-.card-description {
-  font-size: 0.95rem;
-  padding: 0.5rem 1rem 1rem 1rem;
-  text-align: center;
-}
-/* Make table of contents text brown */
-#TOC, .toc, .tocify {
-  color: brown;
-}
-
-/* Make ToC links brown */
-#TOC a, .toc a, .tocify a {
-  color: brown;
-}
-
-/* Optional: Make active/highlighted TOC section bold and brown */
-#TOC a.active,
-.tocify .tocify-focus {
-  color: brown !important;
-  font-weight: bold;
-}
-/* Custom color for clickable links on publications page */
 .colored-link {
-  color: #0072B2; /* Change this hex code to your preferred color */
+  color: var(--uw-purple); font-weight: 500; text-decoration: none;
+  border-bottom: 1px solid var(--uw-purple); transition: all 0.2s ease-in-out;
+}
+.colored-link:hover { color: var(--uw-metallic-gold); border-bottom: 1px solid var(--uw-metallic-gold); }
+
+ul li strong { color: var(--uw-metallic-gold); }
+ul li { margin-bottom: 0.6em; line-height: 1.45; }
+
+/* Navbar text white — LIGHT MODE ONLY */
+body.quarto-light .navbar .navbar-brand,
+body.quarto-light .navbar .nav-link,
+body.quarto-light .navbar .nav-link .menu-text,
+body.quarto-light .navbar .navbar-brand .navbar-title {
+  color: #ffffff !important;
+}
+body.quarto-light .navbar .nav-link:hover,
+body.quarto-light .navbar .nav-link:focus,
+body.quarto-light .navbar .nav-link:hover .menu-text,
+body.quarto-light .navbar .nav-link:focus .menu-text {
+  color: var(--uw-gold) !important;
+}
+body.quarto-light .navbar .dropdown-toggle::after {
+  color: #ffffff !important;
+}
+
+/* Hide Quarto's default toggle glyph */
+.quarto-color-scheme-toggle .bi { display: none; }
+
+/* Base icon styling */
+.quarto-color-scheme-toggle::before {
+  font-family: "bootstrap-icons" !important;
+  font-size: 1.15rem;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 1;
+}
+
+/* Default (light) → sun */
+.quarto-color-scheme-toggle::before {
+  content: "\F5A2";  /* bi-sun-fill */
+}
+
+/* Dark mode → moon. The toggle gets .alternate added in dark mode. */
+.quarto-color-scheme-toggle.alternate::before {
+  content: "\F494";  /* bi-moon-fill */
+}
+
+/* =========================================================
+   About-block social links — gold-accent rectangles (Option E)
+   ========================================================= */
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.about-link {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 7px;
+  color: var(--uw-purple) !important;
+  background: transparent;
+  border: 0.5px solid #d8d2e6 !important;
+  border-left: 3px solid var(--uw-gold) !important;
+  border-radius: 6px !important;
+  padding: 7px 14px !important;
+  font-size: 0.92rem;
   font-weight: 500;
-  text-decoration: none;
-  border-bottom: 1px solid #0072B2;
-  transition: all 0.2s ease-in-out;
+  text-decoration: none !important;
+  transition: background 0.18s ease, border-color 0.18s ease, color 0.18s ease;
+}
+.about-link:hover,
+.about-link:focus {
+  background: rgba(75, 46, 131, 0.06);
+  border-left-color: var(--uw-metallic-gold) !important;
+  color: var(--uw-purple) !important;
+}
+.about-link i { font-size: 1rem; }
+
+/* Brand-colored icons inside the about links */
+.about-link i { transition: color 0.18s ease; }
+
+/* Email — keep purple (no brand color), or pick one */
+.about-link[href^="mailto:"] i { color: var(--uw-purple); }
+
+/* LinkedIn blue */
+.about-link[href*="linkedin.com"] i { color: #0A66C2; }
+
+/* RPubs — its blue */
+.about-link[href*="rpubs.com"] i { color: #2C5AA0; }
+
+/* Google Scholar blue */
+.about-link[href*="scholar.google"] i { color: #4285F4; }
+
+/* ResearchGate teal */
+.about-link[href*="researchgate.net"] i { color: #00CCBB; }
+
+/* ORCID green */
+.about-link[href*="orcid.org"] i { color: #A6CE39; }
+
+
+/* Education timeline — dot markers, current program highlighted */
+.edu-timeline {
+  margin: 1.2rem 0 0;
+  border-left: 2px solid #d8d2e6;
+}
+.edu-item {
+  position: relative;
+  padding: 4px 0 18px 22px;
+}
+.edu-item:last-child { padding-bottom: 4px; }
+.edu-item::before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  top: 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--uw-purple);
+}
+.edu-item.edu-current::before {
+  content: "\25B2";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8px;
+  color: #fff;
+  line-height: 1;
+}
+.edu-degree {
+  color: var(--uw-purple);
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+.edu-school {
+  color: var(--uw-ink);
+  opacity: 0.85;
+  font-size: 0.95rem;
+}
+.edu-year {
+  color: var(--uw-metallic-gold);
+  font-weight: 600;
 }
 
-.colored-link:hover {
-  color: #005999;
-  border-bottom: 1px solid #005999;
-}
-/* Awards page styling */
-h2, h3 {
-  color: #005999;
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 4px;
-  margin-top: 1.8em;
-}
 
-ul li strong {
-  color: #0072B2;
-}
 
-ul li {
-  margin-bottom: 0.6em;
-  line-height: 1.45;
+/* Quote under the about-block links (left column) */
+.quarto-about-trestles .about-entity::after {
+  content: "“The best thing about being a statistician is that you get to play in everyone's backyard.” — John Tukey";
+  display: block;
+  margin-top: 1.4rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--uw-gold);
+  font-style: bold;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--uw-metallic-gold);
+  max-width: 320px;
+}
+.project-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 2rem;
+  padding: 1rem 0;
+}
+@media (max-width: 600px) {
+  .project-grid { grid-template-columns: 1fr !important; }
+}
+.about-image img,
+.about-entity img,
+.quarto-about-trestles .about-image img {
+  image-rendering: auto;
+  transform: translateZ(0);
 }

@@ -20,7 +20,7 @@ website:
     logo: files/images/UMD logo.png
     logo-alt: "University of Minnesota-Duluth"
     left:
-      - text: Bernard K. Appiah
+      - text: Home
         href: index.qmd
       - text: Research
         menu:
@@ -56,7 +56,7 @@ website:
       - icon: github
         href: https://github.com/bkappiah007
         target: _blank
-      - icon: file-text
+      #- icon: file-text
         # text: Rpubs
         # href: https://rpubs.com/Emmanuel_Kubuafor
         # target: _blank
@@ -70,10 +70,10 @@ website:
       - icon: github
         href: https://github.com/bkappiah
         target: _blank
-      - icon: file-text
-        text: Rpubs
-        #href: https://rpubs.com/Emmanuel_Kubuafor
-        target: _blank
+      #- icon: file-text
+       # text: Rpubs
+        #href: https://rpubs.com/Bernard07
+        #target: _blank
 
   search:
     location: navbar
