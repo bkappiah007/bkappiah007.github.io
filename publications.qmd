@@ -10,7 +10,7 @@ css: custom.css
 
 
 
-- **Appiah, B. K.**, Incoom-Koomson, K., Brobbey, S., Kallah-Dagadu, G., (2025). *Application of Machine Learning Models to Identify the Risk Factors of the Incidence of Malaria Among Pregnant Women in Ghana.*  
+- **Appiah, B. K.**, Incoom-Koomson, K., Brobbey, S., Kallah-Dagadu, G. (2025). *Application of Machine Learning Models to Identify the Risk Factors of the Incidence of Malaria Among Pregnant Women in Ghana.*  
   [Manuscript](https://drive.google.com/file/d/1pXbxqkg4mojqh50rPJtc_kWqPJZVOUQi/view?usp=sharing){.colored-link}
 
 
