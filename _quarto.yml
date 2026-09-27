@@ -51,7 +51,7 @@ website:
 
     right:
       - text: CV
-        href: files/CV_for_Bernard-2.pdf
+        href: files/CV.pdf
         target: _blank
       - icon: github
         href: https://github.com/bkappiah007

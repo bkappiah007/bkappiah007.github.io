@@ -24,6 +24,9 @@ about:
     #- icon: file-text
     - text: "{{< fa brands r-project >}} RPubs"
       href: https://rpubs.com/Bernard07
+      
+    - text: "{{< fa solid cloud >}} Posit Connect Cloud"
+      href: https://connect.posit.cloud/bernardkwabenaappiah
      #- icon: sun
      # text: Lab
      # href: https://www.github.com
@@ -92,14 +95,3 @@ My work focuses on applying statistical methods to public health challenges, wit
 </div>
 ```
 
-<!-- ## Experience -->
-
-<!-- -   Research Assistant, University of New Mexico -->
-
-<!-- -   Project Assistant, African American Student Services-UNM -->
-
-<!-- ## Education -->
-
-<!-- -   M.S. in Statistics, University of New Mexico (2024-Present) -->
-
-## <!-- -   B.S. in Mathematical Science, University of Ghana (2018-2022) -->
