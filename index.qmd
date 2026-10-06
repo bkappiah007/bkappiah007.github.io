@@ -75,7 +75,7 @@ about:
 
 ::: about
 
-I am an emerging statistician and biostatistician currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), with a B.Sc. in Mathematical Science from the University of Ghana [University of Ghana](https://www.ug.edu.gh).
+I am an emerging statistician and biostatistician currently pursuing an M.S. in Statistics at the [University of Minnesota Duluth](https://d.umn.edu), with a B.Sc. in Mathematical Science from the [University of Ghana](https://www.ug.edu.gh).
 My research interests include survival analysis, variable selection, statistical learning, and applications of statistical methods to public health. My current research focuses on variable selection for dynamic survival models, with an emphasis on identifying important predictors while preserving the underlying hazard structure. More broadly, I am interested in developing and applying statistical methods that can improve the analysis of complex health data and support evidence-based decision-making.
 I am also passionate about teaching and mentoring, and I value rigorous statistical reasoning, clear communication, and collaborative problem-solving.
 
