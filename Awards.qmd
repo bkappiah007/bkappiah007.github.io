@@ -14,6 +14,12 @@ css: custom.css
 
 - **Fostering Diversity in Biostatistics Workshop Grant** - *University of Minnesota Duluth* Received a competitive diversity grant to attend the Fostering Diversity in Biostatistics Workshop at the ENAR Conference, supporting underrepresented scholars in biostatistics and statistical sciences.
 
+
+## 2025
+- **DataCamp Donates & DataGlobal Hub Scholarship** — *DataCamp and DataGlobal Hub*  
+Awarded a scholarship to support training in data science, analytics, and programming through DataCamp.
+
+
 ## 2023
 
 - **First Place — Mathematics Society Quiz Competition** - *University of Ghana* Awarded first place in the annual Mathematics Society Quiz Competition at the University of Ghana, demonstrating excellence in mathematical reasoning and problem-solving.
@@ -23,4 +29,4 @@ css: custom.css
 ## 2022
 
 - **Honor of Excellence and Dedication** — *University of Ghana Actuarial and Statistics Society*\
-  Recognized for two years of transformative leadership as Academic Committee member. ---
+Recognized for two years of transformative leadership as Academic Committee member. 
