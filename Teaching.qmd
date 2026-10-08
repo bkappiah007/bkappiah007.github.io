@@ -44,7 +44,7 @@ An undergraduate course covering first and second order ordinary differential eq
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/inference.png)
+![](files/images/inference .png)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
